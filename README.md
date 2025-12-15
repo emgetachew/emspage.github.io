@@ -4,7 +4,6 @@
 
 I'm a sophomore in highschool who hopes to major in STEM
 I've recently been wanting to teach myself how to code
-`#99C7C3`
 
 **My favorite animes/manga**
 1. Toilet-Bound Hanako Kun
